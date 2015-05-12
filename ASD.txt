@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 AZSDADF
 
 JJHG
+=======
+>>>>>>> parent of fdb2cb1... 추가
